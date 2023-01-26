@@ -15,4 +15,4 @@ Develop a project using HTML, CSS and javascript that includes API integration.
 The project includes three files, an index html file for which a css stylesheet and a working js file support is included. When a valid input of a country's name is given in the search bar, the api would fetch the particular country's information and the information would be shown to the user.
 
 API used in the project is: [Rest Countries API](https://restcountries.com/)
-Reference for project: [Coding Artist](https://www.youtube.com/watch?v=QDCmQHO8F8Q&t=936s)# Country-Guide-Site
+Reference for project: [Coding Artist](https://www.youtube.com/watch?v=QDCmQHO8F8Q&t=936s)
